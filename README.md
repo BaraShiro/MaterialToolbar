@@ -11,4 +11,4 @@ Place `toolbar.svg` and/or `toolbar_dark.svg` in the MPC-HC installation folder.
   <img alt="Toolbar icons" src="24x24/toolbar.svg">
 </picture>
 
-(Light icons are shown when using GitHub light theme and dark icons with GitHub dark theme)
+(Light theme icons are shown when using GitHub light theme and dark theme icons with GitHub dark theme)
