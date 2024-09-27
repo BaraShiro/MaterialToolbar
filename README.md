@@ -7,7 +7,7 @@ Some small tweaks were made to make the icons line up with the pixel grid better
 Place `toolbar.svg`, `toolbar_light.svg`, and `toolbar_dark.svg` in the MPC-HC installation folder.
 
 ## Variants
-There are three weights, 200 (light), 400 (regular), and 600 (bold). There is also the option of having the icons filled or not. 
+There are three weights, 200 (thin), 400 (regular), and 600 (bold). There is also the option of having the icons filled or not. 
 
 ![variants](https://github.com/user-attachments/assets/0932e55e-2553-4a85-8c7e-8135ba4030b1)
 
