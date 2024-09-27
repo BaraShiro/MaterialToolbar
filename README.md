@@ -18,3 +18,7 @@ Modern theme dark
 
 ![Screenshot 2024-03-14 015333](https://github.com/BaraShiro/MaterialToolbar/assets/17293533/a35f3b57-d853-44c1-b627-f1f0ddfb85f0)
 
+
+## License
+
+Distributed under the same license as Material Symbols: [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt).
